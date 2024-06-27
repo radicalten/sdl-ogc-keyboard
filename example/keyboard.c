@@ -25,7 +25,7 @@
 
 #include "config.h"
 
-#include <SDL.h>
+#include <SDL2/SDL.h>
 #include <malloc.h>
 #include <ogc/cache.h>
 #include <ogc/gx.h>
