@@ -4,7 +4,7 @@
 #include <string.h>
 #include <unistd.h>
 
-#include "SDL.h"
+#include <SDL2/SDL.h>
 #include "SDL_ttf.h"
 
 #ifdef __wii__
