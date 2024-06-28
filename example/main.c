@@ -6,10 +6,10 @@
 
 #include <SDL2/SDL.h>
 
-static SDL_Window *window;
-static SDL_Renderer *renderer;
-static SDL_Texture *background;
-static TTF_Font *font;
+// static SDL_Window *window;
+// static SDL_Renderer *renderer;
+// static SDL_Texture *background;
+// static TTF_Font *font;
 
 static SDL_Texture *btn_input1_tex = NULL;
 static SDL_Texture *btn_input2_tex = NULL;
