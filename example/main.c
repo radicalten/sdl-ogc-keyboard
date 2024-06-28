@@ -5,7 +5,7 @@
 #include <unistd.h>
 
 #include <SDL2/SDL.h>
-// #include "SDL_ttf.h"
+#include "SDL_ttf.h"
 
 #ifdef __wii__
 #include "ogc_keyboard.h"
