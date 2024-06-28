@@ -6,9 +6,9 @@
 
 #include <SDL2/SDL.h>
 
-#ifdef __wii__
-#include "ogc_keyboard.h"
-#endif
+// #ifdef __wii__
+// #include "ogc_keyboard.h"
+// #endif
 
 static SDL_Window *window;
 static SDL_Renderer *renderer;
